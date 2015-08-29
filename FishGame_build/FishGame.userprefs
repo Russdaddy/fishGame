@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/rayScript.cs">
+    <Files>
+      <File FileName="Assets/rayScript.cs" Line="12" Column="25" />
+      <File FileName="Assets/gameScript.cs" Line="71" Column="32" />
+      <File FileName="Assets/playerScript.cs" Line="26" Column="46" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
